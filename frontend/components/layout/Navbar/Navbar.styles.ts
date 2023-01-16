@@ -1,3 +1,5 @@
 import styled from 'styled-components';
 
-export const Navbar = styled.nav``;
+export const Navbar = styled.nav`
+height: 54px;
+`;
